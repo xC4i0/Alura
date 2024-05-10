@@ -24,6 +24,8 @@ let wordAttempts = attempts > 1 ? 'tentativas' : 'tentativa'
 alert(`Você acertou! o número secreto ${numberSecret}, Com ${attempts} ${wordAttempts}`);
 
 
+// Desafio, troque o valor de 1 a 100 e trocar na linha 8 automaticamente
+
 
 /*
     DESAFIOS PROPOSTO
