@@ -16,11 +16,8 @@ while (numberTyped != numberSecret) {
         }
         // attempts = attempts + 1;
         attempts++
-    }
-    
+    }   
 }
-
-
 
 
 
