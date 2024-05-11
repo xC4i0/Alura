@@ -9,6 +9,9 @@
         align-items: center;
         justify-content: center;
         flex-direction: column;
+        margin-right: 20px;
+        margin-left: 20px;
+        
     }
 
     body::before {
@@ -28,7 +31,7 @@
         align-items: center;
         justify-content: center;
         flex-direction: column;
-        box-shadow: 4px 4px 20px 0px rgba(1, 8, 14, 0.15);
+        box-shadow: 4px 4px 20px 0px rgba(1, 8, 14, 0.15);  
     }
 
     .container__conteudo {
