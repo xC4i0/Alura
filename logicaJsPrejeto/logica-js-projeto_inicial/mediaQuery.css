@@ -1,0 +1,81 @@
+/* Media query para dispositivos mobile */
+
+@media only screen and (max-width: 920px) {
+    
+    body {
+        background: linear-gradient(#1354A5 0%, #041832 33.33%, #041832 66.67%, #01080E 100%);
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    body::before {
+        background-repeat: repeat;
+        background-position: center;
+        width: 90%;
+        height: 20vh;
+    }
+
+    .container__imagem-robo {
+        width: 45%;
+    }
+
+    .container {
+        width: 90%;
+        height: 70%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        box-shadow: 4px 4px 20px 0px rgba(1, 8, 14, 0.15);
+    }
+
+    .container__conteudo {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+    }
+
+    .container__informacoes {
+        padding: 20px;
+        text-align: center;
+    }
+
+    .container__checking {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .container__texto {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+
+    }
+
+    .numberSmallerLarger {
+        text-align: center;
+        margin-top: 20px;
+        background-color: white;
+        color: black;
+        width: 100%;
+        font-size: 18px;
+        border-radius: 10px;
+    }
+    
+}
+
+
+@media only screen and (min-width: 921px) and (max-width: 1500px) {   
+   
+}
+
+
+
