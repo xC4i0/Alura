@@ -5,7 +5,8 @@
 *Esta pasta de projetos da alura sera utilizada pra expor algumas alterações que fiz nos desafios proposto das aulas. Algumas modificações para ficar mais interativo com o usuário!*
 
 ## &#x1F4D6;Projeto Número Secreto!
-![CapaNúmeroSecreto](![capaLinkedinNumeroSecreto](https://github.com/xC4i0/Alura/assets/128866704/d97c2f9a-15eb-47c3-ace7-66b4aac348e4))
+ ![ProjetoXmen](![capaLinkedinNumeroSecreto](https://github.com/xC4i0/Alura/assets/128866704/5cccd0f8-36f0-4df1-8b0f-2b6b5475d909)
+)
 ### &#x270D;Descrição 
 ---
 *O projeto "Número Secreto" foi proposto pelo curso da Alura, "Lógica de Programação: Mergulhe em Programação com JavaScript". Inicialmente, ele estava focado em lógica de programação, utilizando comandos como ALERT, PROMPT, WHILE e IF ELSE. No entanto, devido ao meu conhecimento em DOM, fiz uma modificação no projeto para torná-lo mais agradável para o usuário. Substituí o uso constante de alertas, que podem ser incômodos, por um formulário com campo de entrada e botão de verificação. Agora, os resultados são exibidos na tela do usuário de forma mais amigável, sem a necessidade de alertas intrusivos. Além disso, o projeto é responsivo, adaptando-se a diferentes dispositivos e tamanhos de tela.*
