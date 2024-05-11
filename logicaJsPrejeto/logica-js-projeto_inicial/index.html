@@ -19,13 +19,19 @@
             <div class="container__informacoes">
                 <img src="./img/trophy.png" alt="ícone de um troféu" />
                  <div class="container__texto">
-                    <h1>Você <span class="container__texto-azul">acertou!</span></h1>
-                    <h2>Você descobriu o número secreto!</h2>
+                    <h1> Descuba o <span class="container__texto-azul">número secreto</span></h1>
+                    <p class="subTitle">Digite um número de 1 a 100</p>
+                    <div oninput="" class="container__checking">
+                        <input type="text" placeholder="Digite um número:  ">
+                        <button>Verificar</button>
+                    </div>
+                    <p class="numberSmallerLarger"></p>
+                    <p class="attempts"></p>
                 </div>
             </div>
         </div>
     </div>
-    <script src="app.js" defer></script>
+    <script src="script.js" defer></script>
 </body>
 
 </html>
