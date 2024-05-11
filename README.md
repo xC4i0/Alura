@@ -9,7 +9,7 @@
 ---
 *O projeto "Número Secreto" foi proposto pelo curso da Alura, "Lógica de Programação: Mergulhe em Programação com JavaScript". Inicialmente, ele estava focado em lógica de programação, utilizando comandos como ALERT, PROMPT, WHILE e IF ELSE. No entanto, devido ao meu conhecimento em DOM, fiz uma modificação no projeto para torná-lo mais agradável para o usuário. Substituí o uso constante de alertas, que podem ser incômodos, por um formulário com campo de entrada e botão de verificação. Agora, os resultados são exibidos na tela do usuário de forma mais amigável, sem a necessidade de alertas intrusivos. Além disso, o projeto é responsivo, adaptando-se a diferentes dispositivos e tamanhos de tela.*
 
-*&#x1F538;<a href="https://xc4i0.github.io/Projetos/Cordel_CursoEmVideo/" target="_blank"> Executar Jogo do Número Secreto.*
+*&#x1F538;<a href="logicaJsPrejeto/logica-js-projeto_inicial/" target="_blank"> Executar Jogo do Número Secreto.*
 ---
 
 #### As linguagens e tecnologias utilizadas no projeto foram:
