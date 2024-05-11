@@ -5,7 +5,7 @@
 *Esta pasta de projetos da alura sera utilizada pra expor algumas alterações que fiz nos desafios proposto das aulas. Algumas modificações para ficar mais interativo com o usuário!*
 
 ## &#x1F4D6;Projeto Número Secreto!
- ![ProjetoNúmeroSecreto](![capaLinkedinNumeroSecreto](imgs/capaLinkedinNumeroSecreto.png)
+
 )
 ### &#x270D;Descrição 
 ---
