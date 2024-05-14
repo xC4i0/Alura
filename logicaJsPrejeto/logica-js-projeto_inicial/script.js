@@ -46,6 +46,13 @@ function resultNumberSecret() {
 
 myButton.addEventListener('click', resultNumberSecret)
 
+// function recarregarPagina() {
+//     location.reload();
+//   }
+  
+//   setInterval(recarregarPagina, 3000);
+  
+
 
 // tryAgain.style.visibility = 'visible';
 // tryAgain.innerHTML = `O número secreto é <span class="container__texto-red">MENOR</span> que = ${numberTyped.value}`
